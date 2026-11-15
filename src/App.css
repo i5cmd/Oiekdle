@@ -1,0 +1,60 @@
+.game {
+  display: flex;
+  flex-direction: column;
+  gap: -20px;
+  width: 40%;
+  transition: 0.2s all;
+}
+
+.game a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none !important;
+  color: darkgrey;
+}
+
+.game:hover {
+  transition: 0.2s all;
+  transform: scale(1.1);
+  background-color: #262626;
+  border-radius: 16px;
+  padding: 10px;
+}
+
+.game a:hover {
+  color: white !important;
+}
+
+.game p, .game h3 {
+  margin: 0;
+  text-align: center;
+}
+
+.game p {
+  font-style: italic;
+  font-weight: 100;
+}
+
+#list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: lightgreen;
+  animation: moving 16s linear infinite;
+  width: 100%;
+}
+
+@keyframes moving {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
