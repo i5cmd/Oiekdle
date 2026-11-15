@@ -32,6 +32,7 @@ function App() {
         <GameTab name="TimeSwipe" description='Codzienna gra historyczna, w której musisz określić, czy przedstawione wydarzenie miało miejsce przed, czy po wskazanym roku.' link="https://play.timeswipe.fun/" />
         <GameTab name="SongSwipe" description='Codzienna gra muzyczna, w której określasz, czy zostały wydane przed, czy po podanym roku.' link="https://play.timeswipe.fun/" />
       </div>
+      <footer></footer>
     </>
   )
 }
