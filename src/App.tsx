@@ -17,7 +17,7 @@ function App() {
         <GameTab name="MapTap" description='Gra geograficzna, w której musisz wskazać na interaktywnym globusie 3D lokalizację pięciu miejsc' link="https://maptap.gg/" />
         <GameTab name="WikiFork" description='Gra logiczna oparta na Wikipedii, w której musisz połączyć dwie znane osoby za pomocą łańcucha innych postaci.' link="https://wikifork.com/" />
         <GameTab name="Searchle" description='Codzienna gra słowna inspirowana Wordle, w której musisz odgadnąć, jak Google automatycznie dokończy podane zapytanie.' link="https://searchle.net/" />
-        <GameTab name="Minecraftle" description='Gra logiczna inspirowana Wordle, w której musisz odgadnąć ukrytą recepturę craftingu z Minecrafta, układając przedmioty na stole rzemieślniczym 3×3.' link="https://searchle.net/" />
+        <GameTab name="Minecraftle" description='Gra logiczna inspirowana Wordle, w której musisz odgadnąć ukrytą recepturę craftingu z Minecrafta, układając przedmioty na stole rzemieślniczym 3×3.' link="https://minecraftle.zachmanson.com/" />
         <GameTab name="Chess.com Daily Puzzle" description='Codzienna łamigłówka szachowa, w której musisz znaleźć najlepsze ruchy prowadzące zazwyczaj do mata lub zdobycia przewagi materialnej.' link="https://www.chess.com/daily" />
         <GameTab name="Foodguessr" description='Gra geograficzna, w której na podstawie zdjęcia potrawy musisz odgadnąć kraj, z którego pochodzi.' link="https://www.foodguessr.com/game/classic/singleplay" />
         <GameTab name="Year To Beat" description='Muzyczna gra quizowa, w której oglądasz pięć teledysków i próbujesz odgadnąć rok ich wydania.' link="https://yeartobeat.com/" />
