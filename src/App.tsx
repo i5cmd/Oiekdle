@@ -30,7 +30,13 @@ function App() {
         <GameTab name="Pokemon Roulette" description='Przeglądarkowa gra przygodowa, w której losowe obroty ruletki decydują o przebiegu Twojej podróży Pokémon.' link="https://pokemon-roulette.zeroxm.com.br/" />
         <GameTab name="Combinations" description='Codzienna gra słowna, w której układasz angielskie słowa z dostępnych kafelków zawierających fragmenty wyrazów.' link="https://combinations.org/" />
         <GameTab name="TimeSwipe" description='Codzienna gra historyczna, w której musisz określić, czy przedstawione wydarzenie miało miejsce przed, czy po wskazanym roku.' link="https://play.timeswipe.fun/" />
-        <GameTab name="SongSwipe" description='Codzienna gra muzyczna, w której określasz, czy zostały wydane przed, czy po podanym roku.' link="https://play.timeswipe.fun/" />
+        <GameTab name="SongSwipe" description='Codzienna gra muzyczna, w której określasz, czy zostały wydane przed, czy po podanym roku.' link="https://play.songswipe.fun/" />
+        <GameTab name="Rocket Goal" description='Przeglądarkowa gra sportowa inspirowana Rocket League, w której sterujesz samochodem wyposażonym w dopalacz i rozgrywasz mecze piłki nożnej na arenie.' link="https://rocketgoal.io/" />
+        <GameTab name="bonk.io" description='Wieloosobowa gra przeglądarkowa oparta na fizyce, w której sterujesz kolorową kulką i próbujesz wypchnąć przeciwników poza planszę.' link="https://bonk.io/" />
+        <GameTab name="Magic Cat Academy 3" description='Zręcznościowa gra przeglądarkowa, w której sterujesz kotką Momo eksplorującą podwodny świat opanowany przez duchy.' link="https://www.google.com/logos/2024/halloween24/rc3/halloween24.html" />
+        <GameTab name="Dream Car Racing EVO" description='Dwuwymiarowa gra wyścigowa oparta na fizyce, w której samodzielnie projektujesz i budujesz samochód z różnych części, a następnie testujesz go na wymagających trasach.' link="https://pl.y8.com/games/dream_car_racing_evo" />
+        <GameTab name="Frontwars.io" description='Wieloosobowa gra strategiczna czasu rzeczywistego, w której rozpoczynasz z niewielkim terytorium i starasz się podbić jak największą część mapy świata.' link="https://frontwars.io/" />
+        
       </div>
       <footer></footer>
     </>
